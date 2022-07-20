@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bartmars
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Web Development from freeCodeCamp to learn more about Responsive Web Design.
+- ~~🌱 I’m currently learning Web Development from freeCodeCamp to learn more about Responsive Web Design.~~
 
 
 <!---
