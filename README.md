@@ -2,13 +2,13 @@
 - 👀 I’m interested in Web Development
 
 ## Active
-- 🌱 I'm currently following the course `The PHP Practitioner` from `Laracasts` to learn more about PHP.
+- 🌱 `The PHP Practitioner` from `Laracasts` to learn about PHP 8.x.
 
 ## On hold
-- 🌱 I'm currently following the course `JavaScript Algorithms and Data Structures` from `freeCodecamp` to learn more about JavaScript.
+- 🌱 `JavaScript Algorithms and Data Structures` from `freeCodecamp` to learn about JavaScript.
 
 ## Done
-- ~~🌱 I’m currently following the course `Responsive Web Design` from `freeCodeCamp` to learn more about Responsive Web Design.~~
+- ~~🌱 `Responsive Web Design` from `freeCodeCamp` to learn about Responsive Web Design.~~
 
 
 <!---
