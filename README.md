@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @bartmars
 - 👀 I’m interested in Web Development
 
-## Active
-- 🌱 `The PHP Practitioner` from `Laracasts` to learn about PHP 8.x.
-
-## On hold
-- 🌱 `JavaScript Algorithms and Data Structures` from `freeCodecamp` to learn about JavaScript.
-
-## Done
-- ~~🌱 `Responsive Web Design` from `freeCodeCamp` to learn about Responsive Web Design.~~
+| Course                                    | Where        | Status  | Cleared       |
+| ----------------------------------------- | ------------ | ------- | ------------- |
+| The PHP Practitioner                      | Laracasts    | Active  | -             |
+| JavaScript Algorithms and Data Structures | freeCodeCamp | On Hold | -             |
+| Responsive Web Design                     | freeCodeCamp | Done    | July 20, 2022 |
 
 
 <!---
